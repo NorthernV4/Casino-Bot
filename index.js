@@ -3,7 +3,7 @@ const Account = require('./account.js');
 const { decks } = require('cards');
 
 const bot = new Discord.Client();
-const token = 'NTkxNDYzNzQ0MzE2NjM3MTkx.XQxJ2Q._8eBMIn4sXjCufWWvGu_Oc80pTg';
+const token = 'YOUR_BOT_TOKEN';
 
 const PREFIX = '.';
 
